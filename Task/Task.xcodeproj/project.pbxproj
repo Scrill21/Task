@@ -88,6 +88,7 @@
 				7EC8F556259B5AAD003641BD /* SceneDelegate.swift */,
 				7EC8F55D259B5AB0003641BD /* Assets.xcassets */,
 				7EC8F562259B5AB0003641BD /* Info.plist */,
+				7EC8F55F259B5AB0003641BD /* LaunchScreen.storyboard */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -96,7 +97,6 @@
 			isa = PBXGroup;
 			children = (
 				7EC8F55A259B5AAD003641BD /* Main.storyboard */,
-				7EC8F55F259B5AB0003641BD /* LaunchScreen.storyboard */,
 			);
 			path = Storyboards;
 			sourceTree = "<group>";
